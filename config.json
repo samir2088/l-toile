@@ -6,19 +6,19 @@
 		"tabs": [
 
 			{
-				"title": "Al Ahly SC",
+				"title": "ESS Tv",
 				"provider": "youtube",
 				"arguments": [
-					"UCA86pBGxVPZGrTeTecOtjew",
+					"UCuFmNKDtzgUu9YgrZM5iXXA",
 					"channel"
 
 				]
 			},
 {
-				"title": "Al AHLY TV",
+				"title": "TUNISIAN SCOUT",
 				"provider": "youtube",
 				"arguments": [
-					"UCmeqakSoEdmxEtTnCFSbunw",
+					"UCl6GdQBpF6F50yVkEiT608Q",
 					"channel"
 
 				]
@@ -36,10 +36,10 @@
 			
 		  
 			{
-				"title": "تعليم أون لاين",
+				"title": "Boutoula",
 				"provider": "youtube",
 				"arguments": [
-					"UCsKwQv4etTbOP63Ghn2gziQ",
+					"UCHWm04smNqG7N9rCwzZ1Y1g",
 					"channel"
 
 				]
