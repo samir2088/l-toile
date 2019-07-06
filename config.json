@@ -18,7 +18,7 @@
 				"title": "TOP Football.TN",
 				"provider": "youtube",
 				"arguments": [
-					"UCXEvtyhAE2iXh2-r7TlAh2A",
+					"UCmpaP5sOoAysK02F6cJrPpg",
 					"channel"
 
 				]
@@ -43,10 +43,10 @@
 				]
 			},
       {
-				"title": "الدوري التونسي",
+				"title": "Foot",
 				"provider": "youtube",
 				"arguments": [
-					"PLtBfZ7MNAEp9NLYNixYbR3VCSPVGtA2u-",
+					"UCv3pLbsL7YtjugU4ZIXqg7Q",
 					"playlist"
 
 				]
@@ -70,10 +70,10 @@
 				]
 			},
       {
-				"title": "الدوري الجزائري",
+				"title": "Koora4U",
 				"provider": "youtube",
 				"arguments": [
-					"UCnDDEjh0Ert0l-smpCq9yGw",
+					"UC8D2Nc8E26cw7Jj9SJIFo6Q",
 					"channel"
 
 				]
@@ -81,11 +81,11 @@
       
       
       {
-				"title": "البطولة العربية",
+				"title": "Sky Football",
 				"provider": "youtube",
 				"arguments": [
-					"PLtBfZ7MNAEp9CYiDlxkkLJw8Pu4bH7iMj",
-					"playlist"
+					"UC7fUgGpMpA4tHqeBFa-aPlQ",
+					"channel"
 
 				]
 			},
