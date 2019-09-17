@@ -15,6 +15,33 @@
 				]
 			}, 
 			{
+				"title": "Football Time",
+				"provider": "youtube",
+				"arguments": [
+					"UCd7IwXypbwxoIsqbQZUDZjg",
+					"channel"
+
+				]
+			},
+			{
+				"title": "koraRocet",
+				"provider": "youtube",
+				"arguments": [
+					"UC8ud_349w5ryCuq6Ejf8nLA",
+					"channel"
+
+				]
+			},
+			{
+				"title": "Gsm AToZ",
+				"provider": "youtube",
+				"arguments": [
+					"UCBPxmiKCicNvFWAzaadFN0w",
+					"channel"
+
+				]
+			},
+			{
 				"title": "TOP Football.TN",
 				"provider": "youtube",
 				"arguments": [
